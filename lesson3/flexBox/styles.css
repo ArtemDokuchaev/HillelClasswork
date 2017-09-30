@@ -1,0 +1,30 @@
+body{
+	background-color: #BDBDBD;
+	font-family: sans-serif;
+}
+
+.flex-conteiner {
+	display:inline-flex;
+	border: 2px solid black;
+}
+
+.flex-item {
+	font-size: 36px;
+	padding: 5px 10px 5px 10px;
+}
+
+.flex-item:first-child {
+	background-color: chocolate;
+}
+.flex-item:nth-child(2) {
+	background-color: CadetBlue;
+}
+.flex-item:nth-child(3) {
+	background-color: CornSilk; 
+}
+.flex-item:nth-child(4) {
+	background-color: DarkTurquoise;
+}
+.flex-item:nth-child(5) {
+	background-color: white;
+}

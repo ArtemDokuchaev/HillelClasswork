@@ -1,0 +1,21 @@
+body{
+	background-color: #BDBDBD;
+	font-family: sans-serif;
+}
+.menu li{
+	border-width: 2px;
+	display: inline-block;
+	border-bottom-style: solid;
+	border-bottom-color: red;
+	border-left-style: solid;
+	border-left-color: black;
+	margin: 5px;
+	margin-left: 30px;
+	padding: 2px;
+	padding-left: 4px;
+
+}
+
+.menu li:hover{
+	color: #DF013A;
+}
