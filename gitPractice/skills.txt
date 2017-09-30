@@ -1,0 +1,4 @@
+i know java
+i know python
+<<<<<<< HEAD
+Fixed new history
